@@ -6,6 +6,14 @@ class Hewan {
     this._nama = nama;
     this._umur = umur;
   }
+
+  set ubah_namahewan(String nama){
+    this._nama = nama;
+  }
+
+  String get ambil_namahewan{
+    return this._nama;
+  }
 }
 
 class Kucing extends Hewan{
