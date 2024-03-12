@@ -92,8 +92,8 @@ void main() {
     anjing.makan_gakesukaan();
   }
 
-  print("Mencoba memberi makan Kucing Fluffy dengan makanan $makanan2 ..\n");
-  if (makanankucing(makanan2) == true) {
+  print("Mencoba memberi makan Kucing Fluffy dengan makanan $makanan5 ..\n");
+  if (makanankucing(makanan5) == true) {
     kucing.makan_kesukaan();
   }
   else{
