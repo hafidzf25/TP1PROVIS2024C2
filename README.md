@@ -4,7 +4,7 @@ Saya berjanji ga curang
 # Desain dan Penjelasan
 Disini saya menggunakan konsep OOP, yang dimana menggunakan konsep pewarisan atau inheritance. Induk dari sebuah class nya adalah Hewan, lalu mewarisi Kucing dan Anjing.
 
-![image](https://github.com/hafidzf25/TP1PROVIS2024C2/assets/117885795/294a6809-cd10-4d4c-8fac-f760347af41c)
+![image](https://github.com/hafidzf25/TP1PROVIS2024C2/assets/117885795/3a835179-dd9d-4cc2-9b5f-650cdd274c08)
 
 ![image](https://github.com/hafidzf25/TP1PROVIS2024C2/assets/117885795/f72c6324-8470-48e5-b250-9c3433646aae)
 
