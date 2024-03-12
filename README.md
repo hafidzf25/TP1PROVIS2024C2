@@ -15,6 +15,9 @@ Pada masing-masing class Anjing dan Kucing memiliki method yang dimana menandaka
 Penggunaan Asyncronus pada program ini adalah bahwa si Anjing memiliki waktu 3 detik untuk menyantap makanannya, dan si Kucing memiliki waktu hanya 1 detik. Jadi di program akan dimulai dengan Anjing yang makan makanannya terlebih dahulu, lalu kucing, dan output akan mengeluarkan hasil kucing terlebih dahulu, baru anjing. Dikarenakan asyncronus time tadi.
 
 Lalu masuk ke instansiasi object pada Kucing dan Anjing, dan inisialisasi makanan makanan yang salah satunya akan dimakan oleh Anjing dan Kucing (Untuk contohnya, saya disini menggunakan makanan yang disukai oleh Kucing dan Anjing, yaitu Daging)
+
+![image](https://github.com/hafidzf25/TP1PROVIS2024C2/assets/117885795/47bd6b21-7467-4098-8d16-3141a40f78f8)
+
 ![image](https://github.com/hafidzf25/TP1PROVIS2024C2/assets/117885795/1b2acd88-b2d6-463b-a7bb-724fca739196)
 
 Disini terlihat bahwa kedua hewan akan memakan makanan yang disukainya yaitu Daging, dan pada proses if else nya mengarahkan ke suatu function yang mengembalikan nilai boolean yang dimana tujuannya adalah untuk menganalisis apakah makanan tersebut disukai atau tidak.
